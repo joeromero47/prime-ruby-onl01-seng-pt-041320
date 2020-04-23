@@ -1,2 +1,3 @@
-def prime?(array)
-  return 
+def prime?(number)
+  start = 0
+  
